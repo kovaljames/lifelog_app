@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283213403009",
+    "firebase_url": "https://lifelog-a1fce.firebaseio.com",
+    "project_id": "lifelog-a1fce",
+    "storage_bucket": "lifelog-a1fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283213403009:android:11ad857e10eb2dc03f0e80",
+        "android_client_info": {
+          "package_name": "com.convexe.lifelog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283213403009-c19iq8cahpum48addth9t46d99poimr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.convexe.lifelog",
+            "certificate_hash": "d37e90b276326c395c880d95b13c31a5d2b747a6"
+          }
+        },
+        {
+          "client_id": "283213403009-p0ou59a0t8nfm7mgv156s6grn08gc2c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXAbdIFPGibr4Z6TOb1Qbqk8vHWH-jlMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283213403009-p0ou59a0t8nfm7mgv156s6grn08gc2c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
